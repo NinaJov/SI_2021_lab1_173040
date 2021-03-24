@@ -3,4 +3,8 @@ nina
 andrea
 sveto
 miki
+<<<<<<< HEAD
 angel
+=======
+angel			
+>>>>>>> branch2
